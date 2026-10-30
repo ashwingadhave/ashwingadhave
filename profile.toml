@@ -1,0 +1,24 @@
+owner = "ashwingadhave"
+exclude_repos = ["alvinreal/awesome-opensource-ai"]
+exclude_prs = []   # e.g. "owner/repo#123"
+
+[[project]]
+description = "evaluation examples: measuring consistency across repeated runs"
+repos = [{ repo = "mlflow/mlflow", name = "MLflow" }]
+
+[[project]]
+description = "LLM eval metrics; test-suite reliability"
+repos = [{ repo = "truera/trulens", name = "TruLens" }]
+
+[[project]]
+description = "Apex rules for AI coding agents; API typings"
+repos = [
+  { repo = "forcedotcom/sf-skills", name = "Salesforce sf-skills" },
+  { repo = "jsforce/jsforce", name = "jsforce" },
+]
+
+[[manual]]
+name = "ImmigrationVoice"
+label = "nonprofit · volunteer"
+description = "Congress API integration and legislator data model"
+count = "8 merged"

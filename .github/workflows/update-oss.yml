@@ -1,0 +1,45 @@
+name: Update open source section
+
+on:
+  schedule:
+    - cron: "17 6 * * *"  # daily, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python3 -m unittest discover -s tests -t .
+
+      - name: Regenerate section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 -m profile_oss
+
+      - name: Commit if changed, or keep the workflow alive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            git commit -m "chore: update open source section"
+            git push
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 50 * 24 * 3600 )) ]; then
+            # GitHub disables scheduled workflows after 60 days without repo activity.
+            git commit --allow-empty -m "chore: keep-alive"
+            git push
+          else
+            echo "No changes."
+          fi
