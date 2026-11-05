@@ -15,23 +15,25 @@
 ## 🧩 Open Source
 
 <!-- OSS:START -->
-**[MLflow](https://github.com/mlflow/mlflow)** <sub>28.7k★</sub> — evaluation examples: measuring consistency across repeated runs. <sub>1 merged</sub>
-<details><summary>1 pull request</summary>
+**[MLflow](https://github.com/mlflow/mlflow)** <sub>28.7k★</sub> — evaluation examples: measuring consistency across repeated runs. <sub>1 merged · 1 in review</sub>
+<details><summary>2 pull requests</summary>
 
+- [Log a per-scorer error count in \`mlflow.genai.evaluate()\` run metrics](https://github.com/mlflow/mlflow/pull/27504) — in review
 - [Add a consistency example with repeated runs to the evaluation examples page](https://github.com/mlflow/mlflow/pull/27030) — merged Oct 2026
 
 </details>
 
-**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>5.4k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 in review</sub>
+**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>5.4k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 merged</sub>
 <details><summary>1 pull request</summary>
 
-- [generate a Vale style from the detector's pattern tables](https://github.com/conorbronsdon/avoid-ai-writing/pull/431) — in review
+- [generate a Vale style from the detector's pattern tables](https://github.com/conorbronsdon/avoid-ai-writing/pull/431) — merged Nov 2026
 
 </details>
 
-**[TruLens](https://github.com/truera/trulens)** <sub>3.6k★</sub> — LLM eval metrics; test-suite reliability. <sub>1 merged · 1 in review</sub>
-<details><summary>2 pull requests</summary>
+**[TruLens](https://github.com/truera/trulens)** <sub>3.6k★</sub> — LLM eval metrics; test-suite reliability. <sub>1 merged · 2 in review</sub>
+<details><summary>3 pull requests</summary>
 
+- [skip messages without text in conversation transcripts](https://github.com/truera/trulens/pull/3055) — in review
 - [repair broken notebook symlinks and guard against new ones](https://github.com/truera/trulens/pull/3007) — merged Oct 2026
 - [add escalation correctness metric](https://github.com/truera/trulens/pull/2988) — in review
 
@@ -49,7 +51,7 @@
 
 **ImmigrationVoice** <sub>nonprofit · volunteer</sub> — Congress API integration and legislator data model. <sub>8 merged</sub>
 
-<sub>Updated automatically · Nov 4, 2026</sub>
+<sub>Updated automatically · Nov 5, 2026</sub>
 <!-- OSS:END -->
 
 ## 💼 Experience <sub>· 15+ years</sub>
