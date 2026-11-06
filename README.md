@@ -23,7 +23,7 @@
 
 </details>
 
-**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>5.4k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 merged</sub>
+**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>5.5k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 merged</sub>
 <details><summary>1 pull request</summary>
 
 - [generate a Vale style from the detector's pattern tables](https://github.com/conorbronsdon/avoid-ai-writing/pull/431) — merged Nov 2026
@@ -39,7 +39,7 @@
 
 </details>
 
-**[Salesforce sf-skills](https://github.com/forcedotcom/sf-skills)** <sub>1.1k★</sub> · **[jsforce](https://github.com/jsforce/jsforce)** <sub>1.5k★</sub> — Apex rules for AI coding agents; API typings. <sub>1 merged · 3 in review</sub>
+**[Salesforce sf-skills](https://github.com/forcedotcom/sf-skills)** <sub>1.2k★</sub> · **[jsforce](https://github.com/jsforce/jsforce)** <sub>1.5k★</sub> — Apex rules for AI coding agents; API typings. <sub>1 merged · 3 in review</sub>
 <details><summary>4 pull requests</summary>
 
 - [name the guest create-then-read case for WITH SYSTEM_MODE](https://github.com/forcedotcom/sf-skills/pull/382) — in review
@@ -51,7 +51,7 @@
 
 **ImmigrationVoice** <sub>nonprofit · volunteer</sub> — Congress API integration and legislator data model. <sub>8 merged</sub>
 
-<sub>Updated automatically · Nov 5, 2026</sub>
+<sub>Updated automatically · Nov 6, 2026</sub>
 <!-- OSS:END -->
 
 ## 💼 Experience <sub>· 15+ years</sub>
