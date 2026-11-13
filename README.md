@@ -2,10 +2,11 @@
 
 **Tech Lead · Building and evaluating AI agents · 15+ years in enterprise software · Speaker at Dreamforce & TDX**
 
-[LinkedIn](https://linkedin.com/in/ashwin-gadhave) · [Email](mailto:ashwin@gadhave.com) · [Dreamforce 2026 slides](https://static.rainfocus.com/plus/df26/sess/1779735931254001EyNv/ppdf/%5B2240%5D%20Build%20Quality%20Agents_%20Master%20Agent%20Script%20and%20Custom%20Evals%20%281%29_1789163926989001IOHN.pdf)
+[LinkedIn](https://linkedin.com/in/ashwin-gadhave) · [Email](mailto:ashwin@gadhave.com) · [Trailblazer story](https://www.salesforce.com/trailblazer-stories/ashwin-gadhave/) · [Dreamforce 2026 slides](https://static.rainfocus.com/plus/df26/sess/1779735931254001EyNv/ppdf/%5B2240%5D%20Build%20Quality%20Agents_%20Master%20Agent%20Script%20and%20Custom%20Evals%20%281%29_1789163926989001IOHN.pdf)
 
 ## 🎤 Speaking & recognition
 
+- **Salesforce Trailblazer Spotlight**: featured story, ["Building the Future of Homeowner Service"](https://www.salesforce.com/trailblazer-stories/ashwin-gadhave/), on the homeowner-service voice agent I built in the Agentforce Voice beta <sub>Nov 2026</sub>
 - **Dreamforce 2026**: co-presenter, ["Build Quality Agents: Master Agent Script and Custom Evals"](https://static.rainfocus.com/plus/df26/sess/1779735931254001EyNv/ppdf/%5B2240%5D%20Build%20Quality%20Agents_%20Master%20Agent%20Script%20and%20Custom%20Evals%20%281%29_1789163926989001IOHN.pdf) <sub>Sep 2026</sub>
 - **TrailblazerDX 2026**: invited roundtable host, Agentforce <sub>Apr 2026</sub>
 - **Dreamforce 2025**: my voice agent showcased in "Architecting AI Voice Experiences with Agentforce Voice" <sub>Sep 2025</sub>
