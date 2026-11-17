@@ -16,7 +16,7 @@
 ## 🧩 Open Source
 
 <!-- OSS:START -->
-**[MLflow](https://github.com/mlflow/mlflow)** <sub>28.8k★</sub> — evaluation examples: measuring consistency across repeated runs. <sub>2 merged</sub>
+**[MLflow](https://github.com/mlflow/mlflow)** <sub>28.9k★</sub> — evaluation examples: measuring consistency across repeated runs. <sub>2 merged</sub>
 <details><summary>2 pull requests</summary>
 
 - [Log a per-scorer error count in \`mlflow.genai.evaluate()\` run metrics](https://github.com/mlflow/mlflow/pull/27504) — merged Nov 2026
@@ -53,7 +53,7 @@
 
 **ImmigrationVoice** <sub>nonprofit · volunteer</sub> — Congress API integration and legislator data model. <sub>8 merged</sub>
 
-<sub>Updated automatically · Nov 15, 2026</sub>
+<sub>Updated automatically · Nov 17, 2026</sub>
 <!-- OSS:END -->
 
 ## 💼 Experience <sub>· 15+ years</sub>
