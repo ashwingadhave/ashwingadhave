@@ -31,9 +31,11 @@
 
 </details>
 
-**[TruLens](https://github.com/truera/trulens)** <sub>3.7k★</sub> — LLM eval metrics; test-suite reliability. <sub>1 merged · 3 in review</sub>
-<details><summary>4 pull requests</summary>
+**[TruLens](https://github.com/truera/trulens)** <sub>3.7k★</sub> — LLM eval metrics; test-suite reliability. <sub>1 merged · 5 in review</sub>
+<details><summary>6 pull requests</summary>
 
+- [seed the groundtruth tests with a local generator](https://github.com/truera/trulens/pull/3100) — in review
+- [show the required collect_list argument for on_context()](https://github.com/truera/trulens/pull/3099) — in review
 - [skip \*args, \*\*kwargs and optional settings in on_default](https://github.com/truera/trulens/pull/3068) — in review
 - [skip messages without text in conversation transcripts](https://github.com/truera/trulens/pull/3055) — in review
 - [repair broken notebook symlinks and guard against new ones](https://github.com/truera/trulens/pull/3007) — merged Oct 2026
@@ -53,7 +55,7 @@
 
 **ImmigrationVoice** <sub>nonprofit · volunteer</sub> — Congress API integration and legislator data model. <sub>8 merged</sub>
 
-<sub>Updated automatically · Nov 22, 2026</sub>
+<sub>Updated automatically · Nov 23, 2026</sub>
 <!-- OSS:END -->
 
 ## 💼 Experience <sub>· 15+ years</sub>
