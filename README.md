@@ -24,7 +24,7 @@
 
 </details>
 
-**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>6.2k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 merged</sub>
+**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>6.3k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 merged</sub>
 <details><summary>1 pull request</summary>
 
 - [generate a Vale style from the detector's pattern tables](https://github.com/conorbronsdon/avoid-ai-writing/pull/431) — merged Nov 2026
@@ -55,7 +55,7 @@
 
 **ImmigrationVoice** <sub>nonprofit · volunteer</sub> — Congress API integration and legislator data model. <sub>8 merged</sub>
 
-<sub>Updated automatically · Nov 24, 2026</sub>
+<sub>Updated automatically · Nov 25, 2026</sub>
 <!-- OSS:END -->
 
 ## 💼 Experience <sub>· 15+ years</sub>
