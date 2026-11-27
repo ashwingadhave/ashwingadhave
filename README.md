@@ -24,10 +24,17 @@
 
 </details>
 
-**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>6.3k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 merged</sub>
+**[avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)** <sub>6.4k★</sub> — Skill that audits and rewrites content to remove AI writing patterns. <sub>1 merged</sub>
 <details><summary>1 pull request</summary>
 
 - [generate a Vale style from the detector's pattern tables](https://github.com/conorbronsdon/avoid-ai-writing/pull/431) — merged Nov 2026
+
+</details>
+
+**[PyRIT](https://github.com/microsoft/PyRIT)** <sub>5.1k★</sub> — Open-source AI red teaming toolkit from Microsoft. <sub>1 in review</sub>
+<details><summary>1 pull request</summary>
+
+- [OWASP LLM10 cost amplification scenario with a token usage scorer](https://github.com/microsoft/PyRIT/pull/4682) — in review
 
 </details>
 
@@ -55,7 +62,7 @@
 
 **ImmigrationVoice** <sub>nonprofit · volunteer</sub> — Congress API integration and legislator data model. <sub>8 merged</sub>
 
-<sub>Updated automatically · Nov 25, 2026</sub>
+<sub>Updated automatically · Nov 27, 2026</sub>
 <!-- OSS:END -->
 
 ## 💼 Experience <sub>· 15+ years</sub>
